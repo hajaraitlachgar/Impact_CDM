@@ -78,5 +78,5 @@ L’indicateur **Life Evaluation (moyenne mobile sur 3 ans)** est utilisé comme
 - Power BI (dashboards interactifs)
 - Git & GitHub
 - [Trello (gestion de projet)](https://trello.com/invite/b/696e036ac6bba7648a03c9a4/ATTI06aa962e6cc4d62afe090f2fa68ccbfe5DE221B4/fil-rouge)
-
+- [Confluence (Documentation)](https://haitlachgar.atlassian.net/wiki/x/AQCt)
 ---
