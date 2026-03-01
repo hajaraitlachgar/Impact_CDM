@@ -21,6 +21,7 @@ L’analyse repose sur une **comparaison avant / après l’événement** pour c
 ---
 
 ## 📊 Indicateurs Clés de Performance (KPIs)
+Les variables présentées constituent les données sources extraites principalement via l’API de la World Bank et d’autres rapports internationaux. Ces variables servent de base au calcul des KPIs définis dans le cahier des charges.
 
 ### Économiques
 - Croissance du PIB
